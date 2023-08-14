@@ -35,3 +35,7 @@ Feel free to modify, enhance, and adapt this project to suit your creative ideas
 For questions or feedback, feel free to get in touch.
 
 Enjoy experimenting with your unique color combinations! 🎨
+
+## <h3 align="left">👍🏼 Support me :</h3>
+
+<a href="https://www.buymeacoffee.com/gabylow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
